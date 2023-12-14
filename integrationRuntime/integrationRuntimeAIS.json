@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntimeAIS",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
