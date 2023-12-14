@@ -1,0 +1,15 @@
+{
+	"name": "lsWebAIS",
+	"properties": {
+		"annotations": [],
+		"type": "Web",
+		"typeProperties": {
+			"url": "https://web.ais.dk/aisdata/",
+			"authenticationType": "Anonymous"
+		},
+		"connectVia": {
+			"referenceName": "integrationRuntimeAIS",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
