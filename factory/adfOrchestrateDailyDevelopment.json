@@ -1,0 +1,9 @@
+{
+	"name": "adfOrchestrateDailyDevelopment",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "83c1d5ac-7937-404f-99ed-01de89fbc612",
+		"tenantId": "e24ac094-efd8-4a6b-98d5-a129b32a8c9a"
+	}
+}
